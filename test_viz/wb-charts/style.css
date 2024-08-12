@@ -13,7 +13,7 @@ html,body{
     color:rgb(83, 83, 83);
     font-family: freight-sans-pro, sans-serif;
     font-weight: 700;
-    padding: 0 0 30px 30px;
+    padding: 0 0 10px 10px;
     margin:0;
 }
 
@@ -21,6 +21,9 @@ html,body{
     margin: 15px;
     border: 1px solid #e0e0e0;
     max-width: 800px;
+    min-width: 400px;
+    box-sizing: border-box;
+    padding:25px
 }
 
 .tick-labels{

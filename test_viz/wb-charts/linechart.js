@@ -6,7 +6,7 @@ let data = [
 let clickedState;
 
 // Set the dimensions and margins of the graph
-const margin = { top: 20, right: 20, bottom: 30, left: 50 };
+const margin = { top: 0, right: 0, bottom: 0, left: 0 };
 let width = 800;
 let height = 600;
 
