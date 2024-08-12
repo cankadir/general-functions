@@ -1,0 +1,211 @@
+year,wb,temp
+2000,Arthur Kill & Kill van Kull,72.31259800000001
+2000,Bronx River & Western Long Island Sound,72.00882220095693
+2000,East River & Harlem River,72.00683883333332
+2000,Jamaica Bay & Tributaries,73.3532021
+2000,Lower Bay,70.89328800000001
+2000,Lower Hudson River,72.12609
+2000,Upper New York Bay,71.3321525
+2001,Arthur Kill & Kill van Kull,75.74181866666667
+2001,Bronx River & Western Long Island Sound,72.08538285714286
+2001,East River & Harlem River,72.91714200000001
+2001,Jamaica Bay & Tributaries,74.02359285714286
+2001,Lower Bay,73.465172
+2001,Lower Hudson River,73.970381
+2001,Upper New York Bay,72.0590677142857
+2002,Arthur Kill & Kill van Kull,76.44760000000002
+2002,Bronx River & Western Long Island Sound,73.55369696969697
+2002,East River & Harlem River,74.71810454545454
+2002,Jamaica Bay & Tributaries,76.24807142857144
+2002,Lower Bay,73.9748
+2002,Lower Hudson River,75.2835
+2002,Upper New York Bay,74.02672727272727
+2003,Jamaica Bay & Tributaries,73.91999999999999
+2004,Arthur Kill & Kill van Kull,73.80325806451613
+2004,Bronx River & Western Long Island Sound,71.22710000000001
+2004,East River & Harlem River,72.88442424242425
+2004,Hackensack River,75.33958181818181
+2004,Jamaica Bay & Tributaries,73.51027777777779
+2004,Lower Bay,72.70621176470588
+2004,Lower Hudson River,74.64803636363638
+2004,Lower Raritan River,72.67183333333334
+2004,Passaic River & Newark Bay,72.67822857142858
+2004,Upper New York Bay,72.4121212121212
+2005,Arthur Kill & Kill van Kull,77.32194428152494
+2005,Bronx River & Western Long Island Sound,73.38350000000001
+2005,East River & Harlem River,74.89350000000002
+2005,Hackensack River,79.24868181818181
+2005,Jamaica Bay & Tributaries,76.87489568515883
+2005,Lower Bay,75.53825
+2005,Lower Hudson River,76.95157142857144
+2005,Lower Raritan River,78.4898
+2005,Passaic River & Newark Bay,78.03457242236024
+2005,Upper New York Bay,74.57045
+2006,Arthur Kill & Kill van Kull,73.4006129032258
+2006,Bronx River & Western Long Island Sound,71.40056
+2006,East River & Harlem River,72.11275641025641
+2006,Hackensack River,76.1213781512605
+2006,Jamaica Bay & Tributaries,74.31146957279861
+2006,Lower Bay,71.54905714285715
+2006,Lower Hudson River,74.47272000000001
+2006,Lower Raritan River,74.531
+2006,Passaic River & Newark Bay,73.80259362859363
+2006,Upper New York Bay,71.63925
+2007,Arthur Kill & Kill van Kull,75.96490689655172
+2007,Bronx River & Western Long Island Sound,71.9947012987013
+2007,East River & Harlem River,73.59530769230768
+2007,Hackensack River,75.22325000000001
+2007,Jamaica Bay & Tributaries,75.35448370288248
+2007,Lower Bay,72.81928571428571
+2007,Lower Hudson River,75.24696323529412
+2007,Lower Raritan River,74.55799999999999
+2007,Passaic River & Newark Bay,74.68464285714285
+2007,Upper New York Bay,73.31714545454545
+2008,Arthur Kill & Kill van Kull,74.9797323037323
+2008,Bronx River & Western Long Island Sound,72.72149999999999
+2008,East River & Harlem River,73.84433333333334
+2008,Hackensack River,76.92013961038961
+2008,Jamaica Bay & Tributaries,75.88048
+2008,Lower Bay,73.18682352941175
+2008,Lower Hudson River,75.81422419685578
+2008,Lower Raritan River,76.50450000000001
+2008,Passaic River & Newark Bay,74.86821333333333
+2008,Upper New York Bay,73.12655
+2009,Arthur Kill & Kill van Kull,73.76829487179486
+2009,Bronx River & Western Long Island Sound,71.74185714285714
+2009,East River & Harlem River,72.47823333333332
+2009,Hackensack River,74.71729278074866
+2009,Jamaica Bay & Tributaries,74.83727000000002
+2009,Lower Bay,72.51140928792569
+2009,Lower Hudson River,74.59461833333333
+2009,Lower Raritan River,73.862
+2009,Passaic River & Newark Bay,73.53269142857141
+2009,Upper New York Bay,72.59346184210526
+2010,Arthur Kill & Kill van Kull,75.64905482625483
+2010,Bronx River & Western Long Island Sound,73.34385714285713
+2010,East River & Harlem River,73.78390909090909
+2010,Hackensack River,76.43410695187166
+2010,Jamaica Bay & Tributaries,75.44802616407983
+2010,Lower Bay,73.24104838709678
+2010,Lower Hudson River,75.77462842105264
+2010,Lower Raritan River,76.70366666666666
+2010,Passaic River & Newark Bay,75.52147111111111
+2010,Upper New York Bay,73.58030000000001
+2011,Arthur Kill & Kill van Kull,74.6081141141141
+2011,Bronx River & Western Long Island Sound,72.76685
+2011,East River & Harlem River,73.12326363636365
+2011,Hackensack River,76.91771818181819
+2011,Jamaica Bay & Tributaries,76.15369090909093
+2011,Lower Bay,72.95522855571848
+2011,Lower Hudson River,74.98537706043956
+2011,Lower Raritan River,74.4987619047619
+2011,Passaic River & Newark Bay,74.8045766590389
+2011,Upper New York Bay,73.34670909090909
+2012,Arthur Kill & Kill van Kull,76.90584347915276
+2012,Bronx River & Western Long Island Sound,74.88275
+2012,East River & Harlem River,75.59716666666667
+2012,Hackensack River,77.92664335664335
+2012,Jamaica Bay & Tributaries,76.64468847979576
+2012,Lower Bay,74.23554395161291
+2012,Lower Hudson River,76.83368141416159
+2012,Lower Raritan River,75.39133333333334
+2012,Passaic River & Newark Bay,76.62840384615384
+2012,Upper New York Bay,75.03597368421053
+2013,Arthur Kill & Kill van Kull,73.52079750733138
+2013,Bronx River & Western Long Island Sound,72.53367105263158
+2013,East River & Harlem River,72.80244755244755
+2013,Hackensack River,74.95871428571428
+2013,Jamaica Bay & Tributaries,74.85897444717445
+2013,Lower Bay,71.1726361450611
+2013,Lower Hudson River,74.96949464285714
+2013,Lower Raritan River,72.66990476190476
+2013,Passaic River & Newark Bay,73.92057444168734
+2013,Upper New York Bay,72.08440000000002
+2014,Arthur Kill & Kill van Kull,73.41087463939155
+2014,Bronx River & Western Long Island Sound,72.69495945945945
+2014,East River & Harlem River,72.476
+2014,Hackensack River,73.93204278074866
+2014,Jamaica Bay & Tributaries,74.67682626262626
+2014,Lower Bay,71.96247981900451
+2014,Lower Hudson River,73.64504886699507
+2014,Lower Raritan River,73.241
+2014,Passaic River & Newark Bay,73.094
+2014,Upper New York Bay,72.558425
+2015,Arthur Kill & Kill van Kull,75.85340849673202
+2015,Bronx River & Western Long Island Sound,74.30345
+2015,East River & Harlem River,74.4772857142857
+2015,Hackensack River,77.31173636363636
+2015,Jamaica Bay & Tributaries,77.26152757760534
+2015,Lower Bay,74.59176373626374
+2015,Lower Hudson River,76.46725142857142
+2015,Lower Raritan River,77.732
+2015,Passaic River & Newark Bay,76.34113422459893
+2015,Upper New York Bay,74.17154545454545
+2016,Arthur Kill & Kill van Kull,76.87533707264959
+2016,Bronx River & Western Long Island Sound,74.2806
+2016,East River & Harlem River,74.82220000000001
+2016,Hackensack River,77.8504645550528
+2016,Jamaica Bay & Tributaries,77.00863636363636
+2016,Lower Bay,74.90067857142859
+2016,Lower Hudson River,77.06239809523808
+2016,Lower Raritan River,77.798
+2016,Passaic River & Newark Bay,76.95362518740629
+2016,Upper New York Bay,74.9111
+2017,Arthur Kill & Kill van Kull,74.39343914956012
+2017,Bronx River & Western Long Island Sound,73.16128663793104
+2017,East River & Harlem River,73.3088181818182
+2017,Hackensack River,75.23949999999999
+2017,Jamaica Bay & Tributaries,75.65750000000001
+2017,Lower Bay,73.53224387096775
+2017,Lower Hudson River,75.03084755760369
+2017,Lower Raritan River,75.22666666666666
+2017,Passaic River & Newark Bay,74.08685406698565
+2017,Upper New York Bay,73.19825
+2018,Arthur Kill & Kill van Kull,76.14643347826087
+2018,Bronx River & Western Long Island Sound,74.15481249999999
+2018,East River & Harlem River,75.2418
+2018,Hackensack River,77.11730769230769
+2018,Jamaica Bay & Tributaries,78.88198181818181
+2018,Lower Bay,75.10431139130435
+2018,Lower Hudson River,77.12539999999998
+2018,Lower Raritan River,76.46166666666667
+2018,Passaic River & Newark Bay,75.38947368421054
+2018,Upper New York Bay,75.124585
+2019,Arthur Kill & Kill van Kull,75.50106008403361
+2019,Bronx River & Western Long Island Sound,73.5191
+2019,East River & Harlem River,73.31936915584416
+2019,Hackensack River,76.83411764705883
+2019,Jamaica Bay & Tributaries,77.27957105340565
+2019,Lower Bay,74.42811178571428
+2019,Lower Hudson River,76.00866405201245
+2019,Lower Raritan River,77.38
+2019,Passaic River & Newark Bay,75.55964426877472
+2019,Upper New York Bay,73.676383
+2020,Arthur Kill & Kill van Kull,77.536
+2020,Bronx River & Western Long Island Sound,75.94803571428571
+2020,East River & Harlem River,75.28283333333334
+2020,Jamaica Bay & Tributaries,75.38803896103897
+2020,Lower Bay,74.7379
+2020,Lower Hudson River,77.69300000000001
+2020,Upper New York Bay,75.85671428571428
+2021,Arthur Kill & Kill van Kull,74.635
+2021,Bronx River & Western Long Island Sound,74.3699553125
+2021,East River & Harlem River,74.05828
+2021,Jamaica Bay & Tributaries,76.28246436046513
+2021,Lower Bay,73.16341596638657
+2021,Lower Hudson River,75.83090187500001
+2021,Upper New York Bay,73.74534090909091
+2022,Arthur Kill & Kill van Kull,76.27952
+2022,Bronx River & Western Long Island Sound,73.8030693548387
+2022,East River & Harlem River,74.1427
+2022,Jamaica Bay & Tributaries,77.10629886363637
+2022,Lower Bay,74.19345709090909
+2022,Lower Hudson River,75.873275
+2022,Upper New York Bay,73.9958
+2023,Arthur Kill & Kill van Kull,76.2853733882353
+2023,Bronx River & Western Long Island Sound,74.38428305
+2023,East River & Harlem River,74.92069818181818
+2023,Jamaica Bay & Tributaries,77.95007885714286
+2023,Lower Bay,74.56538884615384
+2023,Lower Hudson River,76.89735300000001
+2023,Upper New York Bay,74.67822500000001
